@@ -346,3 +346,97 @@ Bxf7+ Kxf7 9. Bxf4 Nf6 10. Nd2 Qxd4 11. O-O-O Bg4 12. Qb3+ Kg6 13. Nf3 Qxe4 14.
 Ne5+ Kf5 15. Rhf1 Bxd1 16. Bg3+ Bf3 17. Rxf3+ Qxf3 18. Qxf3+ Ke6 19. Qb3+ Nd5
 20. Qxb7 Bh6+ 21. Kb1 Rf8 22. c4 Nf4 23. Qxa8 Kxe5 24. Qxa7 Ke6 25. Qxh7 Bg5 26.
 Qe4+ Kd7 27. h4 Bh6 28. Qh7+ Ke8 29. Qxh6 Nxg2 30. Bxb8 1-0
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.13"]
+[Round "-"]
+[White "1e4_0-1"]
+[Black "XyrenChess"]
+[Result "1-0"]
+[WhiteElo "2013"]
+[BlackElo "1285"]
+[TimeControl "600"]
+[EndTime "6:21:10 PDT"]
+[Termination "1e4_0-1 won by checkmate"]
+
+1. e3 d5 2. d3 e5 3. d4 exd4 4. exd4 Nc6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8. c3
+Bg4 9. Bf4 Re8 10. Nbd2 Bd6 11. Bg5 h6 12. Bh4 g5 13. Bg3 Bxg3 14. hxg3 Kg7 15.
+Qc2 Qd7 16. Rae1 a6 17. Ne5 Nxe5 18. dxe5 Ng8 19. f4 d4 20. c4 c5 21. Ne4 Ne7
+22. Nf6 Qc6 23. Nxg4 Rh8 24. Be4 Qc7 25. f5 h5 26. f6+ Kf8 27. fxe7+ Kxe7 28.
+Bd5 Kd8 29. Rxf7 Qa5 30. Ref1 hxg4 31. Qf5 Qc7 32. Rf8+ Rxf8 33. Qxf8+ Kd7 34.
+Rf7# 1-0
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.13"]
+[Round "-"]
+[White "XyrenChess"]
+[Black "1e4_0-1"]
+[Result "0-1"]
+[WhiteElo "1285"]
+[BlackElo "2013"]
+[TimeControl "600"]
+[EndTime "6:38:02 PDT"]
+[Termination "1e4_0-1 won by checkmate"]
+
+1. e4 a6 2. Nf3 e6 3. d4 d5 4. exd5 exd5 5. Nc3 Nf6 6. Be2 Bd6 7. O-O O-O 8. Bg5
+c6 9. Ne5 Bf5 10. g4 Bg6 11. h4 h6 12. Bd2 Bh7 13. Qc1 Nbd7 14. g5 hxg5 15. Bxg5
+Nxe5 16. dxe5 Bxe5 17. h5 Bc7 18. h6 Qd6 19. f4 d4 20. Rd1 Rfe8 21. Qd2 dxc3 22.
+Qxc3 Rxe2 23. Rxd6 Bxd6 24. Bxf6 gxf6 25. Qxf6 Bc5+ 26. Kf1 Rf2+ 27. Ke1 Re8+
+28. Kd1 Bxc2+ 29. Kc1 Be3# 0-1
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.13"]
+[Round "-"]
+[White "3TequilasaDay"]
+[Black "Prathamesh1855"]
+[Result "0-1"]
+[WhiteElo "1990"]
+[BlackElo "2091"]
+[TimeControl "600"]
+[EndTime "8:34:57 PDT"]
+[Termination "Prathamesh1855 won on time"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bc5 5. d3 O-O 6. Bg5 h6 7. Bh4 Re8 8. Nd5
+Be7 9. Nxe7+ Qxe7 10. O-O a6 11. Ba4 d6 12. h3 Be6 13. c3 b5 14. Bc2 g5 15. Nxg5
+hxg5 16. Bxg5 Nb8 17. f4 Nbd7 18. fxe5 dxe5 19. Qf3 Qc5+ 20. d4 exd4 21. Bxf6
+Nxf6 22. Qxf6 d3+ 23. Kh2 dxc2 24. Rf3 Bg4 25. Qxf7+ Kh8 26. hxg4 Qd6+ 27. Rg3
+Re7 28. Qf3 Rh7+ 29. Kg1 Qc5+ 30. Qe3 Qxe3+ 31. Rxe3 Rd8 32. Kf2 Rd1 33. Re1
+Rd2+ 34. Ke3 Rxg2 35. Rac1 c5 36. Kd3 Rd7+ 37. Ke3 Rxg4 38. Rxc2 Re7 39. Rh2+
+Kg8 40. Kf3 Rgg7 41. Reh1 Kf7 42. Ke3 Ke8 43. Rf2 Kd7 44. Rf3 Rg4 45. Rf4 Rg3+
+46. Ke2 Rg6 47. Rh5 Rge6 48. Rd5+ Kc6 49. Ke3 Kb6 50. Rdf5 c4 51. Rf6 Kc5 52.
+Rxe6 Rxe6 53. Rf5+ Kd6 54. Kd4 Kc7 55. e5 Kb6 56. Rf6 Rc6 57. Rxc6+ Kxc6 58. Ke4
+Kd7 59. Kf5 Ke7 0-1
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.13"]
+[Round "-"]
+[White "Prathamesh1855"]
+[Black "3TequilasaDay"]
+[Result "1-0"]
+[WhiteElo "2097"]
+[BlackElo "1984"]
+[TimeControl "600"]
+[EndTime "8:55:31 PDT"]
+[Termination "Prathamesh1855 won on time"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Nc3 Nc6 7. d3 g6 8.
+Be3 Bg7 9. h3 O-O 10. Re1 e6 11. d4 cxd4 12. Nxd4 a6 13. Nf3 Rfd8 14. Bb6 Rdc8
+15. Qe2 Ne5 16. Rad1 Nxf3+ 17. Qxf3 Qc6 18. Bd4 Nd7 19. Bxg7 Kxg7 20. Qd3 Ne5
+21. Qxd6 Nc4 22. Qxc6 Rxc6 23. Rd7 Nxb2 24. Rxb7 Nc4 25. Ne2 Nd2 26. Nd4 Rd6 27.
+Nb3 Nc4 28. e5 Rd5 29. f4 Rc8 30. c3 Na3 31. Nd4 Re8 32. Rd1 g5 33. Nxe6+ Rxe6
+34. Rxd5 gxf4 35. Rdd7 Rxe5 36. Rxf7+ Kg6 37. Rg7+ Kf5 38. Rxh7 Ke4 39. Rhe7 Nb5
+40. Rxe5+ Kxe5 41. h4 Kf5 42. Rxb5+ axb5 43. Kf2 Kg4 44. h5 Kxh5 45. Kf3 Kg5 46.
+g3 fxg3 47. Kxg3 Kf5 48. Kf3 Ke5 49. Ke3 Kd5 50. Kd3 Kc5 51. Kc2 Kc4 52. Kb2 b4
+53. cxb4 Kxb4 54. a3+ 1-0
