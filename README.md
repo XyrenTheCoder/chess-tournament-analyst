@@ -4,6 +4,7 @@ https://challonge.com/zzmpy6qc
 round_1
 ---------------------------------------
 Overall outcome:
+
     Won:
         by Resignation: 21 games
         by Checkmate: 23 games
@@ -13,7 +14,9 @@ Overall outcome:
         by Agreement: 2 games
         by Repetition: 2 games
         by Stalemate: 1 games
+        
 Popular first moves:
+
     1.e4: 36 games
         Continuations:
             1...e5: 13 games
@@ -49,13 +52,16 @@ Popular first moves:
 round_2
 ---------------------------------------
 Overall outcome:
+
     Won:
         by Checkmate: 7 games
         by Resignation: 10 games
         on Time: 1 games
     Drawn:
         by Stalemate: 1 games
+        
 Popular first moves:
+
     1.e4: 14 games
         Continuations:
             1...e5: 7 games
@@ -81,11 +87,13 @@ Popular first moves:
 losers_round_1
 ---------------------------------------
 Overall outcome:
+
     Won:
         by Checkmate: 7 games
         by Resignation: 2 games
     Drawn:
 Popular first moves:
+
     1.e4: 7 games
         Continuations:
             1...e5: 5 games
