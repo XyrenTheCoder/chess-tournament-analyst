@@ -1,6 +1,5 @@
 https://challonge.com/zzmpy6qc
 
-
 round_1
 ---------------------------------------
 Overall outcome:
@@ -14,7 +13,6 @@ Overall outcome:
         by Agreement: 2 games
         by Repetition: 2 games
         by Stalemate: 1 games
-        
 Popular first moves:
 
     1.e4: 36 games
@@ -55,24 +53,25 @@ Overall outcome:
 
     Won:
         by Checkmate: 7 games
-        by Resignation: 10 games
+        by Resignation: 11 games
         on Time: 1 games
     Drawn:
         by Stalemate: 1 games
-        
+        by Repetition: 3 games
 Popular first moves:
 
-    1.e4: 14 games
+    1.e4: 17 games
         Continuations:
-            1...e5: 7 games
-            1...c5: 4 games
+            1...e5: 9 games
+            1...c5: 5 games
             1...c6: 1 games
             1...e6: 1 games
             1...a6: 1 games
-    1.d4: 3 games
+    1.d4: 4 games
         Continuations:
             1...Nf6: 2 games
             1...e6: 1 games
+            1...g6: 1 games
     1.Nc3: 1 games
         Continuations:
             1...e5: 1 games
