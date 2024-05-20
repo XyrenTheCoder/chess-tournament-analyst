@@ -127,4 +127,6 @@ def collect(round: str):
 
 collect('round_1')
 collect('round_2')
+collect('round_3')
 collect('losers_round_1')
+collect('losers_round_2')

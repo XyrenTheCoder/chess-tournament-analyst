@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.19"]
+[Round "-"]
+[White "1e4_0-1"]
+[Black "Valentin_Unhold"]
+[Result "1/2-1/2"]
+[WhiteElo "2011"]
+[BlackElo "1533"]
+[TimeControl "600"]
+[EndTime "10:17:25 PDT"]
+[Termination "Game drawn by repetition"]
+
+1. d4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 Nf6 5. O-O O-O 6. b3 c5 7. Bb2 cxd4 8. Nxd4
+d5 9. c4 dxc4 10. bxc4 Qb6 11. Qb3 Rd8 12. Qxb6 axb6 13. e3 e5 14. Nb3 Nc6 15.
+Bxc6 bxc6 16. Bxe5 Be6 17. N1d2 Ne4 18. Bxg7 Nxd2 19. Nxd2 Kxg7 20. Rfd1 Rd3 21.
+Kf1 Rc3 22. Ke1 Bxc4 23. Nxc4 Rxc4 24. Rdc1 Rxc1+ 25. Rxc1 Rxa2 26. Rxc6 b5 27.
+Rb6 Rb2 28. Kf1 h5 29. h4 b4 30. Kg2 Kf8 31. Rb7 Kg7 32. Rb6 Kf8 33. Rb7 b3 34.
+e4 Kg7 35. e5 Re2 36. Rxb3 Rxe5 37. Rf3 Re6 38. Rf4 Rd6 39. Ra4 Re6 40. Ra3 Rf6
+41. Ra2 Rf5 42. Ra4 Rf6 43. Ra5 Re6 44. Rb5 Rf6 45. Rb4 Rf5 46. Re4 Rf6 47. Re5
+Rd6 48. Rc5 Rf6 49. Rc3 Rf5 50. Rd3 Rf6 51. Rd5 Re6 52. Rg5 Rf6 53. Re5 Rd6 54.
+Re3 Rf6 55. Re2 Rf5 56. Re4 Rf6 57. Re5 1/2-1/2
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.19"]
+[Round "-"]
+[White "Valentin_Unhold"]
+[Black "1e4_0-1"]
+[Result "0-1"]
+[WhiteElo "1533"]
+[BlackElo "2011"]
+[TimeControl "600"]
+[EndTime "10:37:23 PDT"]
+[Termination "1e4_0-1 won by resignation"]
+
+1. d4 e6 2. e4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 a5
+9. Nbd2 a4 10. Rb1 Nh6 11. Qe2 Bc5 12. c4 Nb4 13. Ng5 Nxd3 14. Qxd3 dxc4 15.
+Nxc4 Bb5 16. Ne4 Bxc4 17. Qxc4 Be7 18. Bxh6 gxh6 19. Rbd1 Rd8 20. Qxa4+ Kf8 21.
+Qc2 Kg7 22. Rd3 Rhg8 23. a3 Rc8 24. Qd2 Rgd8 25. Rh3 Bg5 26. Nxg5 hxg5 27. Qxg5+
+Kf8 28. Rxh7 Ke8 29. Qg8+ Kd7 30. Qxf7+ Kc6 31. Qxe6+ Kb5 32. Qb3+ Ka6 33. Qa4+
+Qa5 34. Qd1 d3 35. b4 Qb5 36. Rh6+ b6 37. a4 Qxb4 38. Re3 d2 39. Qf1+ Qc4 40.
+Qxc4+ Rxc4 41. Rd6 d1=Q+ 0-1

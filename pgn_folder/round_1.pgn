@@ -1232,3 +1232,98 @@ Qxg5# 0-1
 Bxc3 9. bxc3 O-O 10. Re1 Nbc6 11. Bf1 Re8 12. g3 Na5 13. Qd3 Qc7 14. Bf4 Qc6 15.
 Bg2 Qxc4 16. Qe3 Nf5 17. Qd2 Rac8 18. Rac1 Qd5 19. Nh4 Qc4 20. Bxb7 Nxb7 21.
 Nxf5 exf5 22. Rxe8+ Rxe8 23. Re1 Rxe1+ 24. Qxe1 Qxa2 25. Qe8# 1-0
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.08"]
+[Round "-"]
+[White "ZigZag2112"]
+[Black "Auric_Chloride"]
+[Result "1-0"]
+[WhiteElo "2259"]
+[BlackElo "1504"]
+[TimeControl "600"]
+[EndTime "1:58:34 PDT"]
+[Termination "ZigZag2112 won by checkmate"]
+
+1. Nf3 d5 2. g3 Nc6 3. d4 Nf6 4. Bg2 e6 5. O-O g6 6. c4 Bg7 7. Nc3 O-O 8. Ne5
+Nxe5 9. dxe5 Ng4 10. f4 c6 11. e4 Nh6 12. exd5 cxd5 13. cxd5 exd5 14. Qxd5 Qb6+
+15. Kh1 Rd8 16. Be3 Qxb2 17. Qxd8+ Bf8 18. Bc5 Be6 19. Qxa8 Qxc3 20. Qxf8# 1-0
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.08"]
+[Round "-"]
+[White "Auric_Chloride"]
+[Black "ZigZag2112"]
+[Result "1-0"]
+[WhiteElo "1504"]
+[BlackElo "2259"]
+[TimeControl "600"]
+[EndTime "2:16:43 PDT"]
+[Termination "Auric_Chloride won by resignation"]
+
+1. g3 c5 2. Bg2 Nf6 3. Nf3 d5 4. d3 Nc6 5. O-O Bg4 6. Nbd2 Qd7 7. c4 d4 8. e3
+dxe3 9. fxe3 Qxd3 10. Qe1 e5 11. Nb3 Qxc4 12. Bd2 Qe6 13. Rc1 Bxf3 14. Bxf3 c4
+15. Bxc6+ Qxc6 16. Na5 Qb5 17. Nxc4 Be7 18. a3 O-O 19. Bb4 Bxb4 20. Qxb4 Qxb4
+21. axb4 e4 22. Nd6 Rfd8 23. Nxb7 Rd2 24. b3 Rb8 25. Na5 Nd5 26. Nc6 Re8 27.
+Nxa7 Nxe3 28. Rf2 Rxf2 29. Kxf2 Nd5 30. Nc6 f5 31. b5 Kf7 32. Nd4 g6 33. Rc5 Nb4
+34. Rc7+ Kf6 35. Rxh7 Rd8 36. Nc6 Nd3+ 37. Ke3 Rd5 38. b6 Rb5 39. b7 Rxb3 40.
+b8=Q Rxb8 41. Nxb8 Ne5 42. Ra7 Kg5 43. Nd7 Ng4+ 44. Ke2 Nxh2 45. Ne5 Kf6 46. Nc4
+Nf3 47. Ne3 Kg5 48. Ra5 Nd4+ 49. Kf2 Nc6 50. Rc5 Nb4 51. Rb5 Nc6 52. Ng2 Nd4 53.
+Rb6 Nf3 54. Nf4 Ne5 55. Re6 Ng4+ 56. Kg1 Nf6 57. Nh3+ Kg4 58. Rxf6 Kxh3 59. Rxg6
+e3 60. Re6 Kxg3 61. Rxe3+ Kf4 62. Kf2 Kg4 63. Rf3 f4 64. Ra3 Kf5 65. Ra4 Kg4 66.
+Kg2 Kg5 67. Kf3 Kf5 68. Rxf4+ Ke5 1-0
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.08"]
+[Round "-"]
+[White "Auric_Chloride"]
+[Black "ZigZag2112"]
+[Result "0-1"]
+[WhiteElo "1513"]
+[BlackElo "2307"]
+[TimeControl "180+2"]
+[EndTime "2:30:56 PDT"]
+[Termination "ZigZag2112 won by checkmate"]
+
+1. g3 d5 2. Bg2 e5 3. Nc3 d4 4. Ne4 f5 5. d3 fxe4 6. dxe4 Nf6 7. Nf3 Bd6 8. O-O
+O-O 9. Nd2 c5 10. e3 dxe3 11. fxe3 Bg4 12. Qe1 Nc6 13. h3 Be6 14. b3 Qe8 15. Nc4
+Bc7 16. Bb2 Qg6 17. Rd1 Nxe4 18. Rxf8+ Rxf8 19. Bxe4 Qxe4 20. Kh2 b5 21. Nd2
+Qxc2 22. Ba1 Qf5 23. e4 Qxh3+ 24. Kg1 Bg4 25. Rc1 Bb6 26. Nc4 bxc4 27. bxc4 Rf3
+28. Rc3 Nd4 29. Rxf3 Nxf3+ 30. Kf2 Qh2+ 31. Ke3 Nxe1 32. Bxe5 Qe2+ 33. Kf4 Qf3+
+34. Kg5 h6+ 35. Kg6 Qf7# 0-1
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.08"]
+[Round "-"]
+[White "ZigZag2112"]
+[Black "Auric_Chloride"]
+[Result "1-0"]
+[WhiteElo "2307"]
+[BlackElo "1513"]
+[TimeControl "180+2"]
+[EndTime "2:37:54 PDT"]
+[Termination "ZigZag2112 won by resignation"]
+
+1. Nf3 d6 2. d4 Nf6 3. g3 e6 4. Bg2 Nc6 5. O-O Bd7 6. c4 d5 7. Nc3 Be7 8. Ne5
+O-O 9. cxd5 exd5 10. Nxd5 Nxe5 11. dxe5 Nxd5 12. Bxd5 c6 13. Bg2 Qc8 14. Be3 Bh3
+15. Rc1 Bxg2 16. Kxg2 h5 17. h3 b6 18. Qa4 c5 19. Qe4 Qe6 20. b3 f5 21. Qc4 Qxc4
+22. Rxc4 Rae8 23. f4 h4 24. g4 fxg4 25. hxg4 g6 26. f5 gxf5 27. gxf5 Kh7 28. Rg4
+Rg8 29. Rxg8 Rxg8+ 30. Kh2 Rg3 31. Bf2 Rg5 32. e4 Rg4 33. Re1 Rf4 34. Bg1 Kg7
+35. Kh3 Rf3+ 36. Kg2 Rg3+ 37. Kf2 Rg4 38. Bh2 h3 39. Rg1 Bh4+ 40. Kf3 Rxg1 41.
+Bxg1 Kf7 42. Kg4 h2 43. Bxh2 Be7 44. e6+ Kf6 45. e5+ Kg7 46. f6+ Bxf6 47. exf6+
+Kxf6 48. Bb8 a5 49. Ba7 Kxe6 50. Bxb6 a4 51. Bxc5 Kd5 52. Be7 axb3 53. axb3 Kc6
+54. b4 Kb5 55. Kf5 Kb6 56. Ke4 Kb5 57. Kd5 Kb6 58. Bc5+ Kb5 59. Kd6 Ka6 60. Kc7
+Kb5 61. Kb7 Ka4 62. Ka6 Kb3 63. b5 1-0
+
