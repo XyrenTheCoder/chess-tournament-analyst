@@ -102,27 +102,27 @@ def collect(round: str):
 
 
     # outputs
-    print(f"\n\n{Style.RESET_ALL}{Fore.YELLOW}{round}\n---------------------------------------")
+    print(f"\n\n    {Style.RESET_ALL}{Fore.YELLOW}{round}\n    ---------------------------------------")
 
-    print(f"{Style.RESET_ALL}{Fore.BLUE}Overall outcome:\n")
+    print(f"    {Style.RESET_ALL}{Fore.BLUE}Overall outcome:")
 
-    print(f"{Fore.GREEN}    Won:")
+    print(f"        {Fore.GREEN}Won:")
     for wins in wintermin:
-        print(f"{Fore.GREEN}        {wins}: {Fore.WHITE}{wintermin[wins]} games")
-    print(f"{Style.DIM}    Drawn:")
+        print(f"            {Fore.GREEN}{wins}: {Fore.WHITE}{wintermin[wins]} games")
+    print(f"        {Style.DIM}Drawn:")
     for draws in drawtermin:
-        print(f"{Style.DIM}        {draws}: {Style.RESET_ALL}{Fore.WHITE}{drawtermin[draws]} games")
+        print(f"            {Style.DIM}{draws}: {Style.RESET_ALL}{Fore.WHITE}{drawtermin[draws]} games")
 
 
-    print(f"{Style.RESET_ALL}{Fore.BLUE}Popular first moves:\n")
+    print(f"    {Style.RESET_ALL}{Fore.BLUE}Popular first moves:")
 
     for i in fwm1:
-        print(f"{Fore.YELLOW}    1.{i}: {Fore.WHITE}{fwm1[i]} games")
-        print(f"{Fore.CYAN}        Continuations:")
+        print(f"        {Fore.YELLOW}1.{i}: {Fore.WHITE}{fwm1[i]} games")
+        print(f"            {Fore.CYAN}Continuations:")
         for k in first_b_moves1[i]:
             fbm1 = dict(sorted(first_b_moves1[i].items(), key=lambda item: item[1], reverse=True))
         for j in fbm1:
-            print(f"{Fore.MAGENTA}            1...{j}: {Style.RESET_ALL}{fbm1[j]} games")
+            print(f"                {Fore.MAGENTA}1...{j}: {Style.RESET_ALL}{fbm1[j]} games")
 
 
 collect('round_1')
