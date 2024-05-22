@@ -82,3 +82,105 @@ Be7 9. d5 exd5 10. Bxd5 Nxd5 11. Qxd5 b6 12. Nc3 Bb7 13. Qd2 Qc7 14. Qf4 h6 15.
 O-O O-O 16. Re1 Nd8 17. Qg4 Kh8 18. Bf4 Qc4 19. Nh4 Ne6 20. Ne2 g5 21. Qh5 Nxf4
 22. Qxh6+ Kg8 23. Nf5 Nh5 24. Qxh5 Qe6 25. Neg3 Bc5 26. Nh6+ Kg7 27. Ngf5+ 1-0
 
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.21"]
+[Round "-"]
+[White "aadityaYOU"]
+[Black "XyrenChess"]
+[Result "0-1"]
+[WhiteElo "608"]
+[BlackElo "1284"]
+[TimeControl "600"]
+[EndTime "0:43:50 PDT"]
+[Termination "XyrenChess won by checkmate"]
+
+1. d4 d5 2. Nc3 e6 3. Bf4 Nf6 4. Nf3 Bd6 5. g3 Bxf4 6. gxf4 Nc6 7. Qd2 Bd7 8.
+O-O-O a5 9. e3 O-O 10. Bb5 Nb4 11. Kb1 Bxb5 12. Nxb5 Ne4 13. Qe1 Qd7 14. a4 c6
+15. Nc3 Rfb8 16. Nxe4 dxe4 17. Nd2 Qd5 18. b3 c5 19. c4 Qc6 20. Qg1 cxd4 21.
+exd4 Nd3 22. Ka1 Qd6 23. f3 Qa3+ 24. Kb1 Qb2# 0-1
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.21"]
+[Round "-"]
+[White "XyrenChess"]
+[Black "aadityaYOU"]
+[Result "0-1"]
+[WhiteElo "1284"]
+[BlackElo "608"]
+[TimeControl "600"]
+[EndTime "1:11:28 PDT"]
+[Termination "aadityaYOU won by checkmate"]
+
+1. e4 e5 2. Qh5 Nf6 3. Bc4 Nxh5 4. Nf3 f6 5. Nc3 Nc6 6. O-O d6 7. Bb3 Bg4 8. d3
+Bxf3 9. gxf3 Nb4 10. Be3 b6 11. Nd5 Nxd5 12. Bxd5 Rb8 13. b3 Nf4 14. Rad1 Nh3+
+15. Kg2 Nf4+ 16. Kg3 g5 17. d4 exd4 18. Bxd4 Nxd5 19. exd5 Be7 20. Rfe1 O-O 21.
+h4 gxh4+ 22. Kxh4 f5+ 23. Kh3 Bf6 24. Bxf6 Qxf6 25. Rg1+ Kf7 26. Rd3 Qh6+ 27.
+Kg2 Rg8+ 28. Kf1 Rxg1+ 29. Kxg1 Rf8 30. Kf1 Rg8 31. Ke2 Re8+ 32. Kd1 Qh1+ 33.
+Kd2 Qe1# 0-1
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.21"]
+[Round "-"]
+[White "XyrenChess"]
+[Black "aadityaYOU"]
+[Result "1/2-1/2"]
+[WhiteElo "951"]
+[BlackElo "357"]
+[TimeControl "180+2"]
+[EndTime "1:14:41 PDT"]
+[Termination "Game drawn by agreement"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Qe7+ 5. Be2 1/2-1/2
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.21"]
+[Round "-"]
+[White "aadityaYOU"]
+[Black "XyrenChess"]
+[Result "1/2-1/2"]
+[WhiteElo "357"]
+[BlackElo "951"]
+[TimeControl "180+2"]
+[EndTime "1:34:09 PDT"]
+[Termination "Game drawn by stalemate"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. c3 e6 6. f3 Be7 7. Bd3 Nc6 8. Nxc6
+bxc6 9. O-O O-O 10. Nd2 d5 11. exd5 cxd5 12. c4 Qb6+ 13. Rf2 Bc5 14. Qf1 Bxf2+
+15. Qxf2 Qxf2+ 16. Kxf2 dxc4 17. Nxc4 Rd8 18. Be2 Ba6 19. b3 Bxc4 20. Bxc4 a5
+21. a4 Rab8 22. Rb1 Nd5 23. Bxd5 Rxd5 24. Be3 f5 25. g4 g6 26. gxf5 gxf5 27. h4
+Kf7 28. h5 Rd3 29. Ba7 Rbxb3 30. Rxb3 Rxb3 31. Kg3 Ra3 32. Bb6 Rxa4 33. Bxa5
+Rxa5 34. Kf4 Kf6 35. h6 Kg6 36. Kg3 Kxh6 37. Kf4 Kg6 38. Kg3 e5 39. Kf2 e4 40.
+fxe4 fxe4 41. Ke3 Re5 42. Kf4 Re8 43. Ke3 h5 44. Kf4 h4 45. Kg4 e3 46. Kf3 e2
+47. Kg4 e1=Q 48. Kf4 Qe2 1/2-1/2
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.21"]
+[Round "-"]
+[White "XyrenChess"]
+[Black "aadityaYOU"]
+[Result "1-0"]
+[WhiteElo "951"]
+[BlackElo "357"]
+[TimeControl "300"]
+[EndTime "1:55:37 PDT"]
+[Termination "XyrenChess won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nge7 5. d4 exd4 6. cxd4 Bb6 7. Ng5 d5 8.
+exd5 Nxd5 9. Nxf7 Kxf7 10. Qf3+ Kg8 11. Bxd5+ Qxd5 12. Qxd5+ Kf8 13. O-O Nb4 14.
+Qb5 Nc2 15. Bf4 Nxa1 16. Nc3 c6 17. Qb4+ Ke8 18. Re1+ Kd7 19. Qe7# 1-0
+

@@ -43,3 +43,49 @@ Qc2 Kg7 22. Rd3 Rhg8 23. a3 Rc8 24. Qd2 Rgd8 25. Rh3 Bg5 26. Nxg5 hxg5 27. Qxg5+
 Kf8 28. Rxh7 Ke8 29. Qg8+ Kd7 30. Qxf7+ Kc6 31. Qxe6+ Kb5 32. Qb3+ Ka6 33. Qa4+
 Qa5 34. Qd1 d3 35. b4 Qb5 36. Rh6+ b6 37. a4 Qxb4 38. Re3 d2 39. Qf1+ Qc4 40.
 Qxc4+ Rxc4 41. Rd6 d1=Q+ 0-1
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.22"]
+[Round "-"]
+[White "TarmoNopee"]
+[Black "Zoro12s"]
+[Result "1-0"]
+[WhiteElo "2267"]
+[BlackElo "1505"]
+[TimeControl "600"]
+[EndTime "0:29:29 PDT"]
+[Termination "TarmoNopee won by resignation"]
+
+1. e4 c6 2. d4 d5 3. e5 f6 4. exf6 exf6 5. Bd3 Ne7 6. c4 Nf5 7. Nf3 Qa5+ 8. Nc3
+Na6 9. cxd5 cxd5 10. O-O Nc7 11. Re1+ Be7 12. Bf4 Ne6 13. Bxf5 Nxf4 14. Bxc8
+Rxc8 15. g3 Ng6 16. Qb3 b6 17. Nxd5 O-O 18. Nxe7+ Kh8 19. Nxc8 Rxc8 20. Rac1 Rd8
+21. h4 Qh5 22. Rc7 Nxh4 23. Nxh4 Qa5 24. Re4 Qd2 25. Ng6+ hxg6 26. Rh4+ Qh6 27.
+Rxh6+ gxh6 28. Qf7 1-0
+
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.22"]
+[Round "-"]
+[White "Zoro12s"]
+[Black "TarmoNopee"]
+[Result "0-1"]
+[WhiteElo "1505"]
+[BlackElo "2267"]
+[TimeControl "600"]
+[EndTime "0:48:26 PDT"]
+[Termination "TarmoNopee won by resignation"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Nc3 Nf6 6. Nf3 e6 7. Bf4 Nbd7 8.
+Bg5 h6 9. Bc1 Bb4 10. Bd2 O-O 11. Be2 Qc7 12. O-O Rad8 13. Re1 Rfe8 14. Nh4 Bh7
+15. Bd3 Bxd3 16. cxd3 Bd6 17. g3 Nb6 18. Re3 Nbd5 19. Nxd5 Nxd5 20. Re4 Bb4 21.
+Bc1 Nf6 22. Rf4 Bd6 23. Rxf6 gxf6 24. Qg4+ Kf8 25. Bxh6+ Ke7 26. Qg7 Rg8 27.
+Ng6+ Kd7 28. Qxf7+ Kc8 29. Qxe6+ Kb8 30. Qxf6 Rde8 31. Nh4 Ka8 32. Kg2 Be7 33.
+Qf4 Qxf4 34. Bxf4 Bxh4 35. Kf3 Bf6 36. h3 Bxd4 37. g4 Rgf8 38. h4 Be5 39. g5
+Rxf4+ 40. Kg3 Kb8 41. Kh3 Rxf2 42. g6 Rg8 43. h5 Rh2+ 44. Kg4 Rg2+ 45. Kf5 Bd4
+46. Re1 Rf8+ 47. Ke4 Re8+ 48. Kxd4 Rxe1 49. g7 Rxg7 50. h6 Rh7 0-1
+

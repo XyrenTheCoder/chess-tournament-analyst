@@ -104,7 +104,7 @@ def collect(round: str):
     # outputs
     print(f"\n\n{Style.RESET_ALL}{Fore.YELLOW}{round}\n---------------------------------------")
 
-    print(f"{Style.RESET_ALL}{Fore.BLUE}Overall outcome:")
+    print(f"{Style.RESET_ALL}{Fore.BLUE}Overall outcome:\n")
 
     print(f"{Fore.GREEN}    Won:")
     for wins in wintermin:
@@ -114,7 +114,7 @@ def collect(round: str):
         print(f"{Style.DIM}        {draws}: {Style.RESET_ALL}{Fore.WHITE}{drawtermin[draws]} games")
 
 
-    print(f"{Style.RESET_ALL}{Fore.BLUE}Popular first moves:")
+    print(f"{Style.RESET_ALL}{Fore.BLUE}Popular first moves:\n")
 
     for i in fwm1:
         print(f"{Fore.YELLOW}    1.{i}: {Fore.WHITE}{fwm1[i]} games")
@@ -130,3 +130,4 @@ collect('round_2')
 collect('round_3')
 collect('losers_round_1')
 collect('losers_round_2')
+collect('losers_round_3')
