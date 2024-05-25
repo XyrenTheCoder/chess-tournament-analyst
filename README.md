@@ -130,23 +130,25 @@
     ---------------------------------------
     Overall outcome:
         Won:
-            by Checkmate: 5 games
-            by Resignation: 1 games
+            by Checkmate: 7 games
+            by Resignation: 3 games
             on Time: 1 games
         Drawn:
             by Agreement: 1 games
             by Stalemate: 1 games
     Popular first moves:
-        1.e4: 7 games
+        1.e4: 10 games
             Continuations:
-                1...c6: 2 games
+                1...c6: 3 games
+                1...e5: 3 games
                 1...c5: 2 games
-                1...e5: 2 games
                 1...e6: 1 games
-        1.d4: 2 games
+                1...g6: 1 games
+        1.d4: 3 games
             Continuations:
                 1...Nf6: 1 games
                 1...d5: 1 games
+                1...f5: 1 games
 
 
     losers_round_3
